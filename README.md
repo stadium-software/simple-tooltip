@@ -2,7 +2,7 @@
 
 Add simple text-only tooltips to controls
 
-Video / screenshot
+![](images/view.gif)
 
 # Version
 Initial 1.0
